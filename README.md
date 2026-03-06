@@ -216,7 +216,7 @@ chat-app/
 
 **Aditya Deshmukh**
 - GitHub: [@des-adi](https://github.com/des-adi)
-- LinkedIn: [Aditya Deshmukh](https://linkedin.com/in/aditya-deshmukh)
+- LinkedIn: [Aditya Deshmukh](https://www.linkedin.com/in/aditya-deshmukh-93042022a/)
 
 ---
 
